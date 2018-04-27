@@ -6,3 +6,4 @@ Lenguajes:
 + Bash
 + C
 + Ruby
+Necesito aprender LISP
